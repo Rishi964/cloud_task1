@@ -1,12 +1,12 @@
-<body bgcolor='green'>
+<body bgcolor='aqua'>
 <pre>
 <?php
 
-print "Hi! My name is Rishabh Khandelwal. Welcome to this website.\n";
-
+print "Hi! Welcome to this page.\n";
+print "IP address of this page is here:\n";
 print `ifconfig`;
 
-<img src = 'CF_domain' width='300' height='300'>
+<img src='CF_domain' width='300' height='380'>
 
 ?>
 </pre>
